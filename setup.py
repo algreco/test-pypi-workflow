@@ -5,7 +5,7 @@ with open('README.md') as file:
 
 setup(
     name='test-pypi-workflow-mlreflect',
-    version='0.0.2',
+    version='0.0.3',
     packages=find_packages(),
     long_description=README,
     long_description_content_type='text/markdown',
